@@ -1,5 +1,5 @@
 /* BUSINESS SETUP: replace the placeholder address with your business email. */
-const CONTACT_EMAIL = 'hello@yourcompany.com';
+const CONTACT_EMAIL = 'globalinkexperts@gmail.com';
 const zh = {
   skip:'跳至主要內容', announceLuxury:'智慧科技，成就卓越商業成果。',
   navServices:'專業服務',navSolutions:'解決方案',navApproach:'合作流程',navAbout:'關於我們',navTalk:'洽談合作',
